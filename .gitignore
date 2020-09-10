@@ -1,0 +1,8 @@
+.ipnyb_checkpoints/
+.virtual_documents/
+*.py
+Testing/
+Testing.ipnyb 
+Testing.py
+pywhatkit_dbs.txt
+*.txt
