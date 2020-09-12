@@ -13,8 +13,8 @@ os.system("cls")
 
 ##########################################################################################################################
 
-with open("original.json") as f:
-#with open("config.json") as f:
+#with open("original.json") as f:
+with open("config.json") as f:
     data = json.load(f)
 
 reddit_data = data["reddit"]
