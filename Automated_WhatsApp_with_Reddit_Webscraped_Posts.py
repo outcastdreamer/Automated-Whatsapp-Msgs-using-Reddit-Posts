@@ -92,10 +92,6 @@ def browser():
 ##########################################################################################################################
 
 def sendwhatmsg(phone_no, message, time_hour, time_min, wait_time=20, print_waitTime=True):
-    '''Sends whatsapp message to a particulal number at given time
-Phone number should be in string format not int
-***This function will not work if the browser's window is minimised,
-first check it by calling 'check_window()' function'''
     global sleeptm
     # if "+" not in phone_no:
     #     raise CountryCodeException("Country code missing from phone_no")
