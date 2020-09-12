@@ -1,16 +1,25 @@
+# python
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 .ipnyb_checkpoints/
-.ipnyb_checkpoints
 .virtual_documents/
 *.py
 Testing/
 Testing.ipnyb 
 Testing.py
 Test.py
-pywhatkit_dbs.txt
-*.txt
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-# IPython
 profile_default/
 ipython_config.py
+!Automated_WhatsApp_with_Reddit_Webscraped_Posts.py
+
+#txt
+whatsapp_dbs.txt
+*.txt
+
+#json
+*.json
+original.json
+!config.json
+
+
+
